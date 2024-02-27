@@ -85,6 +85,8 @@ sleep 30;php /www/wwwroot/vpnfast.vn/public/thanhtoan/Cron_AutoViettelPay.php" t
 </ul>
 <img src="https://i.imgur.com/PgePXnr.png" width="85%" style="max-width: 100%;">
 
+Lưu Ý : Thư mục bank này bắt buộc phải nằm ở /www/wwwroot/domaincủabạn/public mới hoạt động được nhé
+
 
 
 
