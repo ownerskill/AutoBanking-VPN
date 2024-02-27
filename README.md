@@ -1,7 +1,7 @@
 API.VPNFAST.VN cung cấp các API mạnh mẽ để tích hợp các dịch vụ tài chính và thanh toán vào ứng dụng của bạn. Hai API chính được cung cấp là AutoBank  dành cho các web VPN.
 <ul dir="auto">
 <li><a href="https://api.vpnfast.vn" rel="nofollow">Đăng Ký API AutoBank</a></li>
-<li><a href="[https://dvsteam.vn/zalo-hotro-api](https://zalo.me/g/cbzwex124)" rel="nofollow">Nhóm Zalo API Hỗ Trợ Trao Đổi</a></li>
+<li><a href="https://zalo.me/g/cbzwex124" rel="nofollow">Nhóm Zalo API Hỗ Trợ Trao Đổi</a></li>
 </ul>
 Code API Hỗ Trợ Code VPN 
 <ul dir="auto">
