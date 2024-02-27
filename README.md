@@ -40,7 +40,7 @@ Code API Hỗ Trợ Code VPN
   <h3 tabindex="-1" class="heading-element" dir="auto">Bước 2: Cấu hình thư mục</h3>
   <p dir="auto">Truy cập vào thư mục <code>thanhtoan</code> tìm file <code>ViettelMoney_DVS.php & AutoACB_DVS.php</code> và "cut" di chuyển 2 file ViettelMoney_DVS.php & AutoACB_DVS.php vào  <code>www/wwwroot/domaincủabạn/app/Payments</code> vào ấn <code>Paste</code> để dán vào thư mục gốc</p>
   <img src="https://i.imgur.com/79ikf9H.png" width="85%" style="max-width: 100%;">
-  <li>Truy cập lại vào thư mục <code>thanhtoan</code> và tìm đến file <code>demo_config.php</code> Rename đổi tên thành <code>config.php</code>
+  <li>Truy cập lại vào thư mục <code>thanhtoan</code> và tìm đến file config.php</code>
 điền đầy đủ thông tin trong <code>config.php</code> yêu cầu</li>
 <p dir="auto">Nếu bạn không biết lấy thông tin <code>Databases</code> ở đâu cho chuẩn, thì hãy truy cập vào thư mục <code>.env</code> của web vpn bạn để lấy thông tin</p>
 <img src="https://i.imgur.com/RxXukOG.png" width="85%" style="max-width: 100%;">
